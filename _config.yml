@@ -1,31 +1,31 @@
 ## Site Meta ##
 # The title of the website.
-title: "SP - Developer Designs"
+title: "AIROOMS - Feel At Home"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "AIROOMS - Feel At Home."
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "PG, Hostel, PGRooms, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
-copyright: "Copyright &copy; 2023 - Developer Designs."
+copyright: "Copyright &copy; 2023 - AI ROOMS."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "SP-Gallery"
+header: "AIROOMS - Feel At Home"
 # 2nd heading/sub heading of the website.
 subheader: "Developer Designs"
 # A description/bio of the website.
-bio: "A Jekyll theme for Developer Motivation Quotes And Bloggers."
+bio: "AIROOMS- Feel At Home"
 social:
   # Your Twitter username.
-  twitter_username: ""
+  twitter_username: "airooms"
   # Your Facebook username.
-  facebook_username: ""
+  facebook_username: "airooms"
   # Your Instagram username.
-  instagram_username: ""
+  instagram_username: "airooms"
   # GitHub username.
-  github_username: "somuappu75"
+  github_username: "airooms"
   # Your email address.
-  email: ""
+  email: "airooms0786@gmail.com"
 
 ## Gallery Configuration ##
 # If you modify this, also modify the `default.scope.path` key below.

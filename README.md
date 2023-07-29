@@ -1,6 +1,6 @@
 ![Jekyll Lens](https://i.imgur.com/Qi7gdQC.png)
 # Demo
-[Click here Form Demo](https://somuappu75.github.io/Photo-Gallery/)
+[Click here Form Demo](https://airooms.github.io/pictoria/)
 # Lens
 *A Jekyll website  for photographers and photo bloggers.*
 
@@ -45,7 +45,7 @@ in minutes.
 
 #### Want to contribute?
 If you want to contribute, make your changes or enhancements and [open a
-pull request](https://github.com/somuappu75/Photo-Gallery/compare).
+pull request](https://airooms.github.io/pictoria/compare).
 
 > Feedback and bug reports are not only welcome, but strongly encouraged. 😄
 
