@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <!-- Main -->
 <div id="main">
   <!-- Header -->
@@ -20,9 +19,9 @@ layout: default
         {% if site.social.instagram_username and site.social.instagram_username != "" %}
           <li><a href="https://instagram.com/{{ site.social.instagram_username }}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
         {% endif %}
-        {% if site.social.github_username and site.social.github_username != "" %}
-          <li><a href="https://github.com/{{ site.social.github_username }}" class="icon fa-github"><span class="label">Github</span></a></li>
-        {% endif %}
+        <!-- Add the Google Maps link/button with the actual PG address -->
+        <li><a href="https://maps.google.com/maps?q=N-14/49-B-4,Krishna+Dev+Nagar+Colony,Sarai+Nandan,Nagwa,Varanasi,Uttar+Pradesh+221005,India" class="icon fa-map-marker"><span class="label">Google Maps</span></a></li>
+        <!-- Replace the href value above with the actual PG address provided -->
         {% if site.social.email and site.social.email != "" %}
           <li><a href="mailto:{{ site.social.email }}" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
         {% endif %}
@@ -43,6 +42,8 @@ layout: default
 
   <!-- Footer -->
   <footer id="footer">
+    <p>{{ site.description }}</p>
+    <p>Located in Lucknow, India</p>
     <ul class="copyright">
       <li>{{ site.copyright }}</li>
       <li>Site Created by <a href="https://github.com/SauravSrivastav">Saurav Srivastav </a></li>
