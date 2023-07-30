@@ -20,7 +20,7 @@ layout: default
           <li><a href="https://instagram.com/{{ site.social.instagram_username }}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
         {% endif %}
         <!-- Add the Google Maps link/button with the actual PG address -->
-        <li><a href="https://maps.google.com/maps?q=N-14/49-B-4,Krishna+Dev+Nagar+Colony,Sarai+Nandan,Nagwa,Varanasi,Uttar+Pradesh+221005,India" class="icon fa-map-marker"><span class="label">Google Maps</span></a></li>
+        <li><a href="https://goo.gl/maps/SeKxh38qPsbZjiVZ9" class="icon fa-map-marker"><span class="label">Google Maps</span></a></li>
         <!-- Replace the href value above with the actual PG address provided -->
         {% if site.social.email and site.social.email != "" %}
           <li><a href="mailto:{{ site.social.email }}" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
@@ -28,7 +28,15 @@ layout: default
       </ul>
     {% endif %}
   </header>
-
+ <!-- Contact Us -->
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Phone Numbers:</p>
+    <ul>
+      <li>7905912422</li>
+      <li>8726636476</li>
+    </ul>
+  </section>
   <!-- Thumbnail -->
   <section id="thumbnails">
     {% assign gallery = site.static_files | where: "image", true %}
