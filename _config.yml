@@ -8,11 +8,11 @@ keywords: "PG, Girls PG, Hostel, Lucknow, Amity University, accommodation, cozy 
 # Your copyright message.
 copyright: "Copyright &copy; 2023 - AI ROOMS."
 
-## Site Configurations ##
-# 1st heading of the site.
-header: "AIROOMS"
-# 2nd heading/sub heading of the website.
-subheader: "Feel At Home"
+# ## Site Configurations ##
+# # 1st heading of the site.
+# header: "AIROOMS"
+# # 2nd heading/sub heading of the website.
+# subheader: "Feel At Home"
 # A description/bio of the website.
 bio: "AIROOMS- Feel At Home | Girls PG near Amity University, Lucknow"
 social:
