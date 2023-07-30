@@ -10,9 +10,9 @@ copyright: "Copyright &copy; 2023 - AI ROOMS."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "AIROOMS-Feel At Home"
-# # 2nd heading/sub heading of the website.
-# subheader: "Feel At Home"
+header: "AIROOMS"
+# 2nd heading/sub heading of the website.
+subheader: "Feel At Home"
 # A description/bio of the website.
 bio: "Girls PG near Amity University, Lucknow"
 social:
